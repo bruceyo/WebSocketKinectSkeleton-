@@ -1,0 +1,186 @@
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 3\WebSockets\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe.config
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe.config
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.csprojResolveAssemblyReference.cache
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.pdb
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\bin\Debug\Fleck.dll
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.exe
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.pdb
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4a (JSON and image transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe.config
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4a (JSON and image transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.exe
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4a (JSON and image transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.pdb
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe.config
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.exe
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.pdb
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.pdb
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Fleck.dll
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.csprojResolveAssemblyReference.cache
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\0.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\1.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\10.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\11.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\12.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\13.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\14.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\15.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\16.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\17.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\18.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\19.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\2.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\20.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\21.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\22.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\23.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\24.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\25.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\26.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\27.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\28.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\29.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\3.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\30.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\31.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\32.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\33.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\34.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\35.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\36.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\37.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\38.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\39.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\4.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\40.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\41.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\42.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\43.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\44.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\45.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\46.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\47.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\48.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\5.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\6.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\7.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\8.jpg
+C:\Users\Galini\Desktop\6962OS_Code\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\9.jpg
+E:\e-books\Web hteml5\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe.config
+E:\e-books\Web hteml5\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.exe
+E:\e-books\Web hteml5\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.pdb
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe.config
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.exe
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.pdb
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\0.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\1.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\10.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\11.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\12.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\13.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\14.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\15.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\16.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\17.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\18.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\19.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\2.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\20.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\21.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\22.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\23.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\24.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\25.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\26.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\27.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\28.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\29.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\3.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\30.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\31.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\32.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\33.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\34.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\35.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\36.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\37.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\38.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\39.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\4.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\40.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\41.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\42.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\43.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\44.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\45.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\46.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\47.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\48.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\5.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\6.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\7.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\8.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\9.jpg
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.pdb
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Fleck.dll
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.csprojResolveAssemblyReference.cache
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Microsoft.Kinect.dll
+E:\e-books\Web hteml5\@Getting Started with HTML5 WebSocket Programming\6962OS_CodeBundle\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Microsoft.Kinect.xml
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe.config
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.exe
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.pdb
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.csprojResolveAssemblyReference.cache
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\0.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\1.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\10.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\11.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\12.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\13.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\14.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\15.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\16.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\17.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\18.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\19.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\2.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\20.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\21.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\22.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\23.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\24.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\25.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\26.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\27.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\28.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\29.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\3.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\30.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\31.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\32.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\33.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\34.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\35.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\36.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\37.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\38.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\39.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\4.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\40.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\41.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\42.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\43.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\44.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\45.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\46.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\47.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\48.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\5.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\6.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\7.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\8.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Video\9.jpg
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.pdb
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Fleck.dll
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Microsoft.Kinect.dll
+E:\dissertation\Chapter 4b (Video transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\Microsoft.Kinect.xml
